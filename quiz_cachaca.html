@@ -1,3 +1,4 @@
+theme: <jekyll-theme-hacker></jekyll-theme-hacker>
 <!DOCTYPE html>
 <html lang="en">
 <head>
